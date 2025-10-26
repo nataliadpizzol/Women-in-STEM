@@ -1,0 +1,114 @@
+[
+  {
+    "Id": "radia-perlman",
+    "Name": "Radia Perlman",
+    "Discipline": "Computer Scientist",
+    "Bio": "During the 1970s scientists and programmers were working hard on assembling the networks and technology to enable what we now know as the Internet. Engineer and mathematician Radia Perlman was one of very few women involved in process at that time. Her invention of the algorithm behind the Spanning Tree Protocol solved a challenging information routing problem and earned her the moniker “Mother of the Internet.”\n",
+    "Quote": "The world would be a better place if more engineers, like me, hated technology. The stuff I design, if I'm successful, nobody will ever notice. Things will just work, and will be self-managing.\n\n",
+    "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/a/af/Radia_Perlman_2009.jpg"
+  },
+  {
+    "Id": "grace-murray-hopper",
+    "Name": "Grace Murray Hopper",
+    "Discipline": "Computer Scientist",
+    "Bio": "Grace Hopper was a pioneer in coding, and an innovative system builder who concentrated on building compilers and generators—the tools that later supported the definitions of the computer languages she invented and co-invented. \n\n",
+    "Quote": "Humans are allergic to change. They love to say, 'We've always done it this way.' I try to fight that. That's why I have a clock on my wall that runs counter-clockwise.",
+    "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Commodore_Grace_M._Hopper%2C_USN_%28covered%29_head_and_shoulders_crop.jpg/500px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29_head_and_shoulders_crop.jpg"
+  },
+  {
+    "Id": "katherine-johnson",
+    "Name": "Katherine Johnson",
+    "Discipline": "Mathematician",
+    "Bio": "Being handpicked to be one of three black students to integrate West Virginia’s graduate schools is something that many people would consider one of their life’s most notable moments, but it’s just one of several breakthroughs that have marked Katherine Johnson’s long and remarkable life. Born in White Sulphur Springs, West Virginia, in 1918, her intense curiosity and brilliance with numbers vaulted her ahead several grades in school. By 13, she was attending the high school on the campus of historically black West Virginia State College. At 18, she enrolled in the college itself, where she made quick work of the school’s math curriculum and found a mentor in math professor W. W. Schieffelin Claytor, the third African American to earn a PhD in mathematics. She graduated with highest honors in 1937 and took a job teaching at a black public school in Virginia.",
+    "Quote": "Girls are capable of doing everything men are capable of doing. Sometimes they have more imagination than men.",
+    "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/2048px-Katherine_Johnson_1983.jpg"
+  },
+  {
+    "Id": "sister-mary-kenneth-keller",
+    "Name": "Sister Mary Kenneth Keller",
+    "Discipline": "Computer Scientist",
+    "Bio": "Mary Kenneth Keller, was an American Catholic religious sister, educator and pioneer in computer science. She was one of the first people, and the first woman to earn a Ph.D. in computer science in the United States. Keller and Irving C. Tang were the first two recipients of computer science doctorates.",
+    "Quote": "For the first time, we can now mechanically simulate the cognitive process. We can make studies in artificial intelligence\". This points to her foresight regarding the capabilities of computers to assist in learning and to study artificial intelligence",
+    "ImageURL": "https://cdn.wiscweb.wisc.edu/wp-content/uploads/sites/871/2019/03/Sister-Mary-Kenneth-Keller-cropped-1024x591.png"
+  },
+  {
+    "Id": "joy-buolamwini",
+    "Name": "Joy Buolamwini",
+    "Discipline": "Computer Scientist",
+    "Bio": "Joy Buolamwini is a poet of code who uses art and research to illuminate the social implications of artificial intelligence. She founded the Algorithmic Justice League to create a world with more equitable and accountable technology. Her TED Featured Talk on algorithmic bias has over 1 million views. Her MIT thesis methodology uncovered large racial and gender bias in AI services from companies like Microsoft, IBM, and Amazon. Her research has been covered in over 40 countries, and as a renowned international speaker she has championed the need for algorithmic justice at the World Economic Forum and the United Nations. She serves on the Global Tech Panel convened by the vice president of European Commission to advise world leaders and technology executives on ways to reduce the harms of A.I.",
+    "Quote": "AI will not solve poverty, because the conditions that lead to societies that pursue profit over people are not technical.",
+    "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Joy_Buolamwini_-_Wikimania_2018_01.jpg/1826px-Joy_Buolamwini_-_Wikimania_2018_01.jpg"
+  },
+  {
+    "Id": "annie-easley",
+    "Name": "Annie Easley",
+    "Discipline": "Computer Scientist",
+    "Bio": "Annie Easley had never heard of the National Advisory Committee for Aeronautics (NACA) when she read an article about twin sisters who were “human computers” at the Aircraft Engine Research Laboratory in Cleveland, Ohio. The Lab (the predecessor of the NASA Glenn Research Center) was in need of people with strong math skills, and she was in need of a job after recently relocating from Birmingham, Alabama. Two weeks after reading the article, Easley began a career that would span 34 years. She would contribute to numerous programs as a computer scientist, inspire many through her enthusiastic participation in outreach programs, break down barriers for women and people of color in science, technology, engineering, and mathematic (STEM) fields, and win the admiration and respect of her coworkers.",
+    "Quote": "There's so many exciting things going on in the computer industry, that if you have an idea, a dream, something that you want to do, then just go for it.",
+    "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Annie_Easley.jpg/500px-Annie_Easley.jpg"
+  },
+  {
+    "Id": "margaret-hamilton",
+    "Name": "Margaret Hamilton",
+    "Discipline": "Computer Scientist",
+    "Bio": "Margaret Elaine Hamilton is an American computer scientist. She directed the Software Engineering Division at the MIT Instrumentation Laboratory, where she led the development of the on-board flight software for NASA's Apollo Guidance Computer for the Apollo program. She later founded two software companies, Higher Order Software in 1976 and Hamilton Technologies in 1986, both in Cambridge, Massachusetts. Hamilton has published more than 130 papers, proceedings, and reports, about sixty projects, and six major programs. She coined the term \"software engineering\", stating, \"I began to use the term 'software engineering' to distinguish it from hardware and other kinds of engineering, yet treat each type of engineering as part of the overall systems engineering process.",
+    "Quote": "Looking back, we were the luckiest people in the world. There was no choice but to be pioneers; no time to be beginners.",
+    "ImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdzcvcgMC-Gp-sU52DprrOgOh-wzkEjXW85QXXNZ9w3_MlAEF2-k--GytaH0tIMA6oArDaiH4irLDOrs-QI23di1zNi8lcuInrJudGLw"
+  },
+  {
+    "Id": "adele-goldberg",
+    "Name": "Adele Goldberg",
+    "Discipline": "Computer Scientist",
+    "Bio": "Adele Goldberg is an American computer scientist, the author and co-author of books on the Smalltalk-80 programming language, which is software that simplified programming and served as the knowledge base and structure for many other languages such as Python, C, and Java.",
+    "Quote": "Don't ask whether you can do something, but how to do it.",
+    "ImageURL": "https://wiki.inf.ufpr.br/computacao/lib/exe/fetch.php?media=a:adele.png"
+  },
+  {
+    "Id": "dame-stephanie-shirley",
+    "Name": "Dame Stephanie Shirley ",
+    "Discipline": "Computer Scientist",
+    "Bio": "A natural gift for mathematics led Shirley to a career in computing, when engineers and systems designers were first establishing that industry in the 1950s. At the time, women often had difficulty keeping their positions in the workplace after they married, and especially after they had children. Shirley married in 1959, and in 1962 she set up her own company, Freelance Programmers, to provide outsourced software development. With only £6 of capital, she started the business from her kitchen table. She decided to recruit women such as herself, experienced and professionally qualified but spending their time at home with domestic responsibilities. All they needed was a telephone, and a pencil and paper to draw flowcharts and write code. At first Shirley had an uphill struggle to win clients, but after she took to signing her letters of introduction as Steve instead of Stephanie, the work began to flow in.\nMajor clients included the Anglo-French partnership that developed the supersonic Concorde airliner, for which Shirley’s cottage industry workers programmed the black box flight recorder. The company pioneered flexible working, all designed to suit the needs of female employees. In 1974 Shirley rebranded the company as F International (later the FI Group; it eventually became Xansa), the F not only for freelance, but for also flexible and free. Of its first 300 employees, only three were men; but after the introduction of the Sex Discrimination Act in 1975, she recruited men and women equally.\nAlthough Shirley stepped down as chief executive in 1987, she remained the major shareholder until 1991. At that point she sold a controlling interest in the company to the staff: her proud claim was that she had made 70 of them into millionaires. With the flotation of the company in 1996, she too became personally wealthy, able to build up a substantial personal art collection – which she later gave away to charities. She was never interested in money for its own sake, and in the same year she set up the Shirley Foundation to support causes that she cared about.",
+    "Quote": "We waste too much time being afraid, when what we should really fear is wasting time.",
+    "ImageURL": "https://i.guim.co.uk/img/media/6662089b53d74498b32c24ab8bf10c12c8c9f67e/0_0_2410_3500/master/2410.jpg?width=380&dpr=2&s=none&crop=none"
+  },
+  {
+    "Id": "ruchi-sanghvi",
+    "Name": "Ruchi Sanghvi",
+    "Discipline": "Computer Scientist",
+    "Bio": "Ruchi Sanghvi is an Indian computer engineer and businesswoman. She was the first female engineer hired by Facebook. In late 2010, she quit Facebook and in 2011 she started her own company Cove, with two other co-founders. The company was sold to Dropbox in 2012 and Sanghvi joined Dropbox as VP of Operations. ",
+    "Quote": "If I don't ask for something, I'm not going to get it",
+    "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ruchi_cover-2.jpg/500px-Ruchi_cover-2.jpg"
+  },
+  {
+    "Id": "carol-shaw",
+    "Name": "Carol Shaw",
+    "Discipline": "Computer Scientist",
+    "Bio": "Carol Shaw graduated in 1977 with a bachelor degree from UC Berkeley in electrical engineering and computer science from the department of Engineering, and continued to for a master degree in Computer Science – also from Berkeley. During her time at Berkeley her focus and interest was on software, even though she also took several hardware classes, and she interviewed for Atari while finishing up the last course work. She had several job offers, but decided to accept the one from Atari, since it looked fun and she would get paid to play games. She was hired as the first female game developer with the formal title of Microprocessor Software Engineer in 1978, where she began creating games for Atari’s 2600 VCS console. Her interests defied gender stereotypes at an early age, as she enjoyed exploring her brother’s model railroad and excelling in math at school. She remembers: “I was good at math. I entered a bunch of math contests and won awards. Of cause people would say, “Gee, you’re good at math – for a girl. That was kind of annoying. Why shouldn’t girls be good at math?” While she was at Atari working in the lab, Ray Kassar, president of Atari came by and said: “Oh, at last! We have a female game designer. She can do cosmetics color matching and interior decorating cartridges!” Which was two subjects which Carol Shaw had absolutely no interest in. During her time at Atari, Carol Shaw created Atari 3D Tic-Tac-Toe, Polo, and Video Checkers. Four years later, she joined Activision, another early American video game publisher. At Activision, Carol Shaw designed and developed her highly celebrated game River Raid, a vertically scrolling shooter game that sold over a million cartridges. In 2017, The Game Awards gave Shaw the Industry Icon Award.",
+    "Quote": "In those days, one person would do the entire game. The design, programming, graphics and the sound were all done by one person.",
+    "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Carol_Shaw_Holding_Gold_River_Raid_Cartridge.jpg/500px-Carol_Shaw_Holding_Gold_River_Raid_Cartridge.jpg"
+  },
+  {
+    "Id": "anne-l-huillier",
+    "Name": "Anne L’Huillier",
+    "Discipline": "Physicist",
+    "Bio": "Anne L'Huillier is a French/Swedish physicist working on the interaction between short and intense laser fields and atoms.  Born in Paris in 1958, she defended her thesis on multiple multiphoton ionisation in 1986 at the Université Pierre et Marie Curie, Paris and the Commissariat à l'Energie Atomique (CEA). She obtained a permanent research position at CEA the same year. She was a postdoc at Chalmers University of Technology in Gothenburg in 1986 and at the University of Southern California, Los Angeles in 1988. She was a visiting scientist at Lawrence Livermore National Laboratory in 1993. In 1995 she became an associate professor at Lund University and in 1997 she was appointed professor of physics. She has been a member of the Royal Swedish Academy of Sciences since 2004.",
+    "Quote": "Science is not only working with machines and gas or lasers, it's working with people.",
+    "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/4/40/Anne_LHuiller_01.JPG"
+  },
+  {
+    "Id": "andrea-ghez",
+    "Name": "Andrea Ghez",
+    "Discipline": "Astronomer",
+    "Bio": "Andrea M. Ghez, professor of Physics & Astronomy and Lauren B. Leichtman & Arthur E. Levine chair in Astrophysics, is one of the world’s leading experts in observational astrophysics and heads UCLA’s Galactic Center Group. Best known for her ground-breaking work on the center of our Galaxy, which has led to the best evidence to date for the existence of supermassive black holes, she has received numerous honors and awards including the Nobel Prize in 2020, she became the fourth woman to be awarded the Nobel Prize in Physics, sharing one half of the prize with Reinhard Genzel (the other half of the prize being awarded to Roger Penrose). The Nobel Prize was awarded to Ghez and Genzel for their Independent discovery of a supermassive compact object, now generally recognized to be a black hole, in the Milky Way's galactic center, the Crafoord Prize in Astronomy from the Royal Swedish Academy of Science (she is the first woman to receive a Crafoord prize in any field), Bakerian Medal from the Royal Society of London, a MacArthur Fellowship, election to the National Academy of Sciences, the American Academy of Arts & Sciences, and the American Philosophical Society. Her work on the orbits of stars at the center of the Milky Way has opened a new approach to studying black holes and her group is currently focused on using this approach to understand the physics of gravity near a black hole and the role that black holes plays in the formation and evolution of galaxies. Advances in high resolution imaging technology enabled Ghez’s work and her group continues to work on pushing the frontiers of these technologies forward. She serves on several leadership committees for the W. M. Keck Observatory, which hosts the largest telescopes in the world, and the future Thirty Meter Telescope. Ghez is also very committed to the communication of science to the general public and inspiring young girls into science. Her work can be found in many public outlets including TED, NOVA’s Monster of the Milky Way, Discovery’s Swallowed by a Black Hole, TED, and Griffith Observatory.",
+    "Quote": "Em todo desafio também pode ser uma oportunidade.",
+    "ImageURL": "https://www.nobelprize.org/images/143922-portrait-medium.jpg"
+  },
+  {
+    "Id": "gertrude-b-elion",
+    "Name": "Gertrude B. Elion",
+    "Discipline": "Chemist",
+    "Bio": "Elion was the daughter of immigrants. She graduated from Hunter College in New York City with a degree in chemistry in 1937. Unable to obtain a graduate research position because she was a woman, she found work as a lab assistant at the New York Hospital School of Nursing (1937), an assistant organic chemist at the Denver Chemical Manufacturing Company (1938–39), a chemistry and physics teacher in New York City high schools (1940–42), and a research chemist at Johnson & Johnson (1943–44). During this time she also took classes at New York University, where she graduated with a master’s degree in 1941. Unable to devote herself to full-time studies, Elion never received a Ph.D.\nIn 1944 Elion joined the Burroughs Wellcome Laboratories (later part of Glaxo Wellcome; today known as GlaxoSmithKline). There she was first the assistant and then the colleague of Hitchings, with whom she worked for the next four decades. Elion and Hitchings developed an array of new drugs that were effective against leukemia, autoimmune disorders, urinary tract infections, gout, malaria, and viral herpes. Their success was due primarily to their innovative research methods, which marked a radical departure from the trial-and-error approach taken by previous pharmacologists.\n\nElion and Hitchings pointedly examined the difference between the biochemistry of normal human cells and those of cancer cells, bacteria, viruses, and other pathogens (disease-causing agents). They then used this information to formulate drugs that could kill or inhibit the reproduction of a particular pathogen, leaving the human host’s normal cells undamaged. The two researchers’ new emphasis on understanding basic biochemical and physiological processes enabled them to eliminate much guesswork and wasted effort typical previously in developing new therapeutic drugs.\n\nThough Elion officially retired in 1983, she helped oversee the development of azidothymidine (AZT), the first drug used in the treatment of AIDS. In 1991 she was awarded a National Medal of Science and was inducted into the National Women’s Hall of Fame.\n\n",
+    "Quote": "I was very close to my grandfather because he came over from Europe when I was about three years old, and lived very close to us. And, I watched him die, essentially, in the hospital. And that made a tremendous impression on me. I decided that nobody should suffer that much.",
+    "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gertrude_Elion.jpg/500px-Gertrude_Elion.jpg"
+  }
+]
