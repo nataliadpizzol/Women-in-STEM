@@ -8,11 +8,13 @@
 import SwiftUI
 
 public extension View {
+    /// Applies a bottom shadow to the view.
     func bottomShadow() -> some View {
         self
             .shadow(color: .black.opacity(0.25), radius: 2, x: 0, y: 4)
     }
-
+    
+    /// Applies a gradient overlay to the view.
     func gradientOverlay() -> some View {
         self
             .overlay {

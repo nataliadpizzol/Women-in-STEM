@@ -12,23 +12,7 @@ struct TabBarView: View {
     @State private var selectedTab: Tabs = .discover
 
     var body: some View {
-        TabView(selection: $selectedTab) {
-            Tab(value: Tabs.discover) {
-                DiscoverView()
-            } label: {
-                Label(Tabs.discover.title,
-                      systemImage: Tabs.discover.icon
-                )
-            }
-
-            Tab(value: Tabs.favorites) {
-                FavoritesView()
-            } label: {
-                Label(Tabs.favorites.title,
-                      systemImage: Tabs.favorites.icon
-                )
-            }
-        }
+        Text("Here goes the tab bar!")
     }
 }
 

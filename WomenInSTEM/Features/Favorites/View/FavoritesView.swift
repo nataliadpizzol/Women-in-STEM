@@ -14,31 +14,9 @@ struct FavoritesView: View {
     var body: some View {
         NavigationStack {
             VStack {
-                if viewModel.scientists.isEmpty {
-                    ContentUnavailableView(
-                        .favoritesEmptyStateTitle,
-                        systemImage: "star",
-                        description: Text(.favoritesEmptyStateDescription)
-                    )
-                } else {
-                    List {
-                        Section {
-                            ForEach(viewModel.sortedScientists) { scientist in
-                                ListRowView(scientist: scientist)
-                                    .onTapGesture {
-                                        viewModel.selectScientist(scientist)
-                                    }
-                            }
-                        } header: {
-                            SortingButton(sortOrder: $viewModel.sortOrder)
-                        }
-                    }
-                }
+                Text("We'll implement the favorites view here!")
             }
             .navigationTitle(.favoritesLabel)
-            .navigationDestination(item: $viewModel.selectedScientist) { scientist in
-                ScientistDetailView(scientist: scientist)
-            }
             .onAppear {
                 viewModel.loadFavorites()
             }
