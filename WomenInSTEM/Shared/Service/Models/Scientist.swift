@@ -7,6 +7,11 @@
 
 import Foundation
 
+enum SortOrder {
+    case az
+    case za
+}
+
 /// Model representing a scientist.
 struct Scientist: Identifiable, Codable, Hashable {
     let id: String

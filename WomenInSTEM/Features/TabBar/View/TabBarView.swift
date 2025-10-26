@@ -12,7 +12,7 @@ struct TabBarView: View {
     @State private var selectedTab: Tabs = .discover
 
     var body: some View {
-        Text("Here goes the tab bar!")
+        Text("Here comes the tab bar!")
     }
 }
 
