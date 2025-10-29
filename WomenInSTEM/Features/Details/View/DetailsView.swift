@@ -18,12 +18,50 @@ struct ScientistDetailView: View {
     }
 
     var body: some View {
-        Text("We'll implement the details view here!")
+        VStack {
+            AsyncImage(url: URL(string: scientist.imageURL)) { image in
+                image
+                    .resizable()
+                    .scaledToFill()
+            } placeholder: {
+                ProgressView()
+                    .controlSize(.large)
+            }
+            .frame(height: 400)
+            .frame(maxWidth: .infinity)
+            .clipped()
+
+            VStack(spacing: 12) {
+                Text(scientist.name)
+                    .font(.largeTitle).bold()
+                    .foregroundStyle(.primary)
+
+                Text(scientist.discipline)
+                    .font(.callout)
+                    .foregroundStyle(.secondary)
+
+                Text(scientist.bio)
+                    .foregroundStyle(.primary)
+            }
+            .padding(12)
+
+            Spacer()
+        }
+        .ignoresSafeArea(edges: .top)
+        .toolbar {
+            ToolbarItem(placement: .topBarTrailing) {
+                FavoriteButton(
+                    isFavorite: viewModel.isFavorite,
+                    action: viewModel.toggleFavorite)
+            }
+        }
     }
 }
 
 #Preview {
-    ScientistDetailView(
-        scientist: ScientistDataLoader.shared.loadScientists().first!
-    )
+    NavigationStack {
+        ScientistDetailView(
+            scientist: ScientistDataLoader.shared.loadScientists().first!
+        )
+    }
 }

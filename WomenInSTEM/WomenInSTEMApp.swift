@@ -11,7 +11,7 @@ import SwiftUI
 struct WomenInSTEMApp: App {
     var body: some Scene {
         WindowGroup {
-            TabBarView()
+            DiscoverView()
                 .tint(.indigo)
         }
     }
