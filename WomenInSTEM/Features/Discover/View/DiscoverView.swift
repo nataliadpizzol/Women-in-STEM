@@ -16,7 +16,7 @@ struct DiscoverView: View {
             VStack {
                 Text("We'll implement the discover view here!")
             }
-            .navigationTitle(.discoverLabel)
+            .navigationTitle("Discover")
             .onAppear {
                 if viewModel.scientists.isEmpty {
                     viewModel.loadScientists()
