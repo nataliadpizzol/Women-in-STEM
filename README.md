@@ -1,6 +1,13 @@
 # Women in STEM — SwiftUI Workshop App
 
-An iOS app used to teach an introduction to SwiftUI workshop for women. The app showcases women in STEM while participants learn SwiftUI fundamentals by building real UI components, views and navigation flows. 
+An iOS app used to teach an introduction to SwiftUI workshop for women. The app showcases women in STEM while participants learn SwiftUI fundamentals by building real UI components, views and navigation flows.
+
+## Branches
+
+| Branch | Description |
+|--------|-------------|
+| `main` | Starter project — the base used during the workshop. Participants build on top of this. |
+| `complete-example` | Complete implementation — the finished version of the app with all features implemented. |
 
 **Link to figma**: https://www.figma.com/design/QsLEtqHHBDhXABfHJfxMUQ/Oficina-de-Desenvolvimento-iOS?node-id=0-1&t=uOzd7I8gum41teHv-1
 
